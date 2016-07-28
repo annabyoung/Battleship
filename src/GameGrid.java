@@ -1,5 +1,10 @@
 
+<<<<<<< HEAD
 
+=======
+//This is Annabelle's Program
+import java.awt.Container;
+>>>>>>> 7d7a19f0893c1f78408ea0119b202382c7b3b708
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
